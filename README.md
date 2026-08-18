@@ -1,2 +1,2 @@
-# Management
+# managestu
 Student management project
